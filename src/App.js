@@ -33,6 +33,7 @@ function App() {
           className="display"
           value={value}
           readOnly
+            placeholder="0"
         />
       </div>
       <div className="buttons-container">
